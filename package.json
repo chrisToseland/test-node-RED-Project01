@@ -1,0 +1,12 @@
+{
+    "name": "test-node-RED-Project01",
+    "description": "test",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_DESKTOP-CHRPMGD.json",
+            "credentialsFile": "flows_DESKTOP-CHRPMGD_cred.json"
+        }
+    }
+}

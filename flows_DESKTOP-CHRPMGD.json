@@ -496,9 +496,9 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 170,
+        "payload": "hello",
+        "payloadType": "str",
+        "x": 160,
         "y": 460,
         "wires": [
             [
@@ -515,7 +515,8 @@
         "tosidebar": true,
         "console": false,
         "tostatus": false,
-        "complete": "false",
+        "complete": "payload",
+        "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
         "x": 480,
